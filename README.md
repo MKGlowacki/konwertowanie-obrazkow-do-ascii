@@ -4,7 +4,7 @@ Jest to program, za pomocą którego można przekonwertować piksele obrazka na 
 
 ## Spis treści
 
-* [Użyte techlogie](uzyte-technologie)
+* [Użyte technologie](#użyte-technologie)
 
 ## Użyte technologie
 
