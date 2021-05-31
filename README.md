@@ -5,6 +5,8 @@ Jest to program, za pomocą którego można przekonwertować piksele obrazka na 
 ## Spis treści
 
 * [Użyte technologie](#użyte-technologie)
+* [Zrzuty ekranu](#zrzuty-ekranu)
+* [Kontakt](#kontakt)
 
 ## Użyte technologie
 
